@@ -1,3 +1,3 @@
 FROM node:8-alpine
 
-RUN npm install -g aglio
+RUN yarn global add aglio
